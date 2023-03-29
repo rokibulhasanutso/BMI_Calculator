@@ -1,4 +1,4 @@
 # BMI_Calculator
-# I can't create netlify account. Because when i create netlify account then login on netlifiy creaded account then time there suspended me every time.
+# I can't create netlify account. Because when i create netlify account then login on netlifiy created account that time there suspended me. And opening with a new gmail account also works the same.
 # for that i deploy the page on github.io
-# And can see that the project in this link https://rokibulhasanutso.github.io/BMI_Calculator/
+# And can you see that the project in this link https://rokibulhasanutso.github.io/BMI_Calculator/
