@@ -1,4 +1,6 @@
 body {
+    background-image: url("bmi_bg.png");
+    background-repeat: no-repeat;
     background-color: rgba(246,250,255,255);
     font-family: 'Montserrat', sans-serif;
     color: gray;
